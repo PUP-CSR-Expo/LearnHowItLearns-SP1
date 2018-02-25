@@ -24,4 +24,9 @@ Learn How It Learns: Machine Learning and Its Applications
   ```sh
   jupyter notebook
   ```
+
+## Questions?
+  Please feel free to reach us out!
+    - Messenger: https://www.messenger.com/t/pupcsrexpo
+    - Email: pup.csrexpo@gmail.com
   
