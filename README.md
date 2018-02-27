@@ -30,7 +30,7 @@ Learn How It Learns: Machine Learning and Its Applications
   Visit also our [Github] account for more activities prepared by our keynote speakers!
 
   [Git]: <https://git-scm.com/download>
-  [Python 3]: https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe>
+  [Python 3]: <https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe>
   [Python Package Index]: <https://pip.pypa.io/en/stable/installing/>
 
   [Github]: <https://github.com/PUP-CSR-Expo>
